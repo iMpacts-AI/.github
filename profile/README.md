@@ -60,11 +60,6 @@ graph TD
 * **Test Status:** 23/23 core verification tests passing.
 
 ### 3. 👑 [SHEIKH MOHAMMED SAQIB // Founder & Chief Architect Portfolio](https://github.com/iMpacts-AI/Sheikh-Mohammed-Saqib)
-
-<a href="https://github.com/iMpacts-AI/Sheikh-Mohammed-Saqib">
-  <img src="https://raw.githubusercontent.com/iMpacts-AI/Sheikh-Mohammed-Saqib/main/assets/founder-photo.png" alt="SHEIKH MOHAMMED SAQIB" width="180" style="border-radius: 14px; box-shadow: 0 6px 20px rgba(0,0,0,0.15); margin-top: 8px; margin-bottom: 8px;" />
-</a>
-
 * **Role:** Executive Founder Showcase & Technical Monograph Series
 * **Description:** The official portfolio, philosophy, and published essays of Founder & Chief Architect **SHEIKH MOHAMMED SAQIB**.
 * **Featured Monographs:**
