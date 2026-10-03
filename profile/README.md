@@ -30,6 +30,28 @@
 
 Founded and directed by **[SHEIKH MOHAMMED SAQIB](https://github.com/iMpacts-AI/Sheikh-Mohammed-Saqib)**, iMpact develops closed-loop computational environments where intelligent agents perceive, reason, and actuate directly across native operating systems, developer toolchains, and real-world workflows without human bottlenecking or simulated virtualization.
 
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  impact@sovereign-hq                                                        │
+│  ─────────────────────────────────────────────────────────────────────────  │
+│         __/\__       Organization: iMpact AI Global Engineering HQ          │
+│      .-'  /\  '-.    Motto: Network • Reason • Impact                       │
+│     /    /  \    \   Fleet: EMP-001 through EMP-010 Autonomous Agents       │
+│    |  .-'    '-.  |  Operating Model: One Tab = Entire Engineering Company  │
+│    |  |  /\  |  | |  Secret Gate: Quarantined Secrets (Zero Plaintext)      │
+│    |  '-.__.-'  | |  Discord Gateway: iMpact HQ Bot (Zero-Trust Allowlist)  │
+│     \    \  /    /   Release Pipeline: TITAN Automated QA & Quality Scorer  │
+│      '-.  \/  .-'    Inference: 10-Sector Quantum Fabric Dynamic Fallback   │
+│         ~~/\~~       Target: Win32 Desktop • CLI Toolchains • Workflows     │
+│       i M P A C T    Founder: Sheikh Mohammed Saqib                         │
+│     [ SOVEREIGN ]    Portal: https://impacts-ai.com                         │
+│                      Directive: Escaping the Sandbox into Native Agency     │
+│                      State: SOVEREIGN // CONTINUOUS AUTONOMY                │
+│                                                                             │
+│                      ███ ███ ███ ███ ███ ███ ███ ███                        │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
 ---
 
 ## 🏛️ Ecosystem Overview & Core Repositories
